@@ -1,0 +1,15 @@
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\bin\Debug\net8.0\BibliotecaDemo.exe
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\bin\Debug\net8.0\BibliotecaDemo.deps.json
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\bin\Debug\net8.0\BibliotecaDemo.runtimeconfig.json
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\bin\Debug\net8.0\BibliotecaDemo.dll
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\bin\Debug\net8.0\BibliotecaDemo.pdb
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.AssemblyInfo.cs
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.sourcelink.json
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.dll
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\refint\BibliotecaDemo.dll
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.pdb
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\BibliotecaDemo.genruntimeconfig.cache
+C:\Users\isard\Documents\actividadIntegracion\biblioteca-damv\BibliotecaDemo\obj\Debug\net8.0\ref\BibliotecaDemo.dll

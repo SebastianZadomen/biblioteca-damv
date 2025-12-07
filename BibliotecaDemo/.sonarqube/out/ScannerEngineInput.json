@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1765121609000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "biblioteca-damv"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "707095D9-3D26-49D4-9C39-BAFEA889D98F"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.projectKey",
+      "value": "biblioteca-damv:707095D9-3D26-49D4-9C39-BAFEA889D98F"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.projectName",
+      "value": "BibliotecaDemo"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.projectBaseDir",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.working.directory",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.sources",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\Program.cs,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\obj\\BibliotecaDemo.csproj.nuget.dgspec.json,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\obj\\project.assets.json,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.vs\\BibliotecaDemo\\v17\\DocumentLayout.backup.json,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.vs\\BibliotecaDemo\\v17\\DocumentLayout.json,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\bin\\Debug\\net8.0\\BibliotecaDemo.deps.json,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\bin\\Debug\\net8.0\\BibliotecaDemo.runtimeconfig.json,C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\obj\\Debug\\net8.0\\BibliotecaDemo.sourcelink.json"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "707095D9-3D26-49D4-9C39-BAFEA889D98F.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\isard\\Documents\\actividadIntegracion\\biblioteca-damv\\BibliotecaDemo\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.login",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

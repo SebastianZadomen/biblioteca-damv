@@ -1,0 +1,315 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.14.0.0",
+        "fileVersion": "4.14.0-3.25413.5 (b828a8df)",
+        "semanticVersion": "4.14.0",
+        "language": "ca-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 32,
+                  "endLine": 27,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'opcio' in 'void Program.ProcessarOpcio(string opcio, ref bool sortir)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 32,
+                  "endLine": 29,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 32,
+                  "endLine": 55,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'titolCercat' in 'int Program.CercarLlibre(string[] titols, int comptador, string titolCercat)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 63,
+                  "endLine": 56,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 32,
+                  "endLine": 73,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 32,
+                  "endLine": 75,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 's' in 'int int.Parse(string s)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 37,
+                  "endLine": 77,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'titol' in 'void Program.AfegirLlibre(ref string[] titols, ref string[] autors, ref int[] anys, ref int comptador, string titol, string autor, int any)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 79,
+                  "endLine": 79,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'autor' in 'void Program.AfegirLlibre(ref string[] titols, ref string[] autors, ref int[] anys, ref int comptador, string titol, string autor, int any)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 86,
+                  "endLine": 79,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 11,
+                  "endLine": 5,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'autors'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 59,
+                  "endLine": 132,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Converting null literal or possible null value to non-nullable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Whenever there are portions of code that are duplicated and do not depend on the state of their container class, they can be centralized inside a \"utility class\". A utility class is a class that only has static members, hence it should not be instantiated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1172": {
+          "id": "S1172",
+          "shortDescription": "Unused method parameters should be removed",
+          "fullDescription": "A typical code smell known as unused function parameters refers to parameters declared in a function but not used anywhere within the function’s body. While this might seem harmless at first glance, it can lead to confusion and potential errors in your code. Disregarding the values passed to such parameters, the function’s behavior will be the same, but the programmer’s intention won’t be clearly expressed anymore. Therefore, removing function parameters that are not being utilized is considered best practice.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1172",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
