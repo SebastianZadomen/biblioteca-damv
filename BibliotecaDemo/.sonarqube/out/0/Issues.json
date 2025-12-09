@@ -20,9 +20,9 @@
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 27,
+                  "startLine": 99,
                   "startColumn": 32,
-                  "endLine": 27,
+                  "endLine": 99,
                   "endColumn": 50
                 }
               }
@@ -35,16 +35,16 @@
         {
           "ruleId": "CS8604",
           "level": "warning",
-          "message": "Possible null reference argument for parameter 'opcio' in 'void Program.ProcessarOpcio(string opcio, ref bool sortir)'.",
+          "message": "Possible null reference argument for parameter 'titol' in 'int Program.CercarLlibre(string titol)'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 29,
-                  "startColumn": 32,
-                  "endLine": 29,
-                  "endColumn": 37
+                  "startLine": 101,
+                  "startColumn": 44,
+                  "endLine": 101,
+                  "endColumn": 49
                 }
               }
             }
@@ -62,31 +62,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 55,
-                  "startColumn": 32,
-                  "endLine": 55,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8604",
-          "level": "warning",
-          "message": "Possible null reference argument for parameter 'titolCercat' in 'int Program.CercarLlibre(string[] titols, int comptador, string titolCercat)'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 63,
-                  "endLine": 56,
-                  "endColumn": 68
+                  "startLine": 128,
+                  "startColumn": 36,
+                  "endLine": 128,
+                  "endColumn": 54
                 }
               }
             }
@@ -104,10 +83,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 73,
-                  "startColumn": 32,
-                  "endLine": 73,
-                  "endColumn": 50
+                  "startLine": 131,
+                  "startColumn": 36,
+                  "endLine": 131,
+                  "endColumn": 54
                 }
               }
             }
@@ -125,10 +104,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 75,
-                  "startColumn": 32,
-                  "endLine": 75,
-                  "endColumn": 50
+                  "startLine": 139,
+                  "startColumn": 42,
+                  "endLine": 139,
+                  "endColumn": 60
                 }
               }
             }
@@ -140,16 +119,16 @@
         {
           "ruleId": "CS8604",
           "level": "warning",
-          "message": "Possible null reference argument for parameter 's' in 'int int.Parse(string s)'.",
+          "message": "Possible null reference argument for parameter 'titol' in 'void Program.AfegirLlibre(string titol, string autor, int any)'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 77,
-                  "startColumn": 37,
-                  "endLine": 77,
-                  "endColumn": 55
+                  "startLine": 145,
+                  "startColumn": 34,
+                  "endLine": 145,
+                  "endColumn": 39
                 }
               }
             }
@@ -161,88 +140,22 @@
         {
           "ruleId": "CS8604",
           "level": "warning",
-          "message": "Possible null reference argument for parameter 'titol' in 'void Program.AfegirLlibre(ref string[] titols, ref string[] autors, ref int[] anys, ref int comptador, string titol, string autor, int any)'.",
+          "message": "Possible null reference argument for parameter 'autor' in 'void Program.AfegirLlibre(string titol, string autor, int any)'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
                 "region": {
-                  "startLine": 79,
-                  "startColumn": 79,
-                  "endLine": 79,
-                  "endColumn": 84
+                  "startLine": 145,
+                  "startColumn": 41,
+                  "endLine": 145,
+                  "endColumn": 46
                 }
               }
             }
           ],
           "properties": {
             "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8604",
-          "level": "warning",
-          "message": "Possible null reference argument for parameter 'autor' in 'void Program.AfegirLlibre(ref string[] titols, ref string[] autors, ref int[] anys, ref int comptador, string titol, string autor, int any)'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
-                "region": {
-                  "startLine": 79,
-                  "startColumn": 86,
-                  "endLine": 79,
-                  "endColumn": 91
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 11,
-                  "endLine": 5,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'autors'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/isard/Documents/actividadIntegracion/biblioteca-damv/BibliotecaDemo/Program.cs",
-                "region": {
-                  "startLine": 132,
-                  "startColumn": 59,
-                  "endLine": 132,
-                  "endColumn": 74
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
           }
         }
       ],
@@ -272,40 +185,6 @@
             "tags": [
               "Compiler",
               "Telemetry"
-            ]
-          }
-        },
-        "S1118": {
-          "id": "S1118",
-          "shortDescription": "Utility classes should not have public constructors",
-          "fullDescription": "Whenever there are portions of code that are duplicated and do not depend on the state of their container class, they can be centralized inside a \"utility class\". A utility class is a class that only has static members, hence it should not be instantiated.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
-            ]
-          }
-        },
-        "S1172": {
-          "id": "S1172",
-          "shortDescription": "Unused method parameters should be removed",
-          "fullDescription": "A typical code smell known as unused function parameters refers to parameters declared in a function but not used anywhere within the function’s body. While this might seem harmless at first glance, it can lead to confusion and potential errors in your code. Disregarding the values passed to such parameters, the function’s behavior will be the same, but the programmer’s intention won’t be clearly expressed anymore. Therefore, removing function parameters that are not being utilized is considered best practice.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1172",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
             ]
           }
         }
