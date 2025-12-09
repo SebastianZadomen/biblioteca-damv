@@ -84,4 +84,8 @@ Usaría CI/CD + SonarQube para revisar cada commit.
 Workflow: cada desarrollador crea una rama, hace un PR, se ejecuta el análisis y si todo está bien se hace el merge.
 Si algo falla, no permitiría hacer el merge hasta corregirlo.
 
-## 
+## SonarQube
+### Antes
+![antes](/resources/antes.png)
+### Despues
+![despues](/resources/despues.png)
